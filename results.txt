@@ -1,0 +1,6 @@
+
+
+  √ should get some background objects (499ms)
+
+  1 passing (506ms)
+
