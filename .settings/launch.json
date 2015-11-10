@@ -13,7 +13,7 @@
 			// Automatically stop program after launch.
 			"stopOnEntry": false,
 			// Command line arguments passed to the program.
-			"args": ["--width", "1920","--height", "1920","--download","${workspaceRoot}/downloads"],
+			"args": ["--download","F:/Wallpapers", "--save", "F:/Wallpapers/backgrounds.json", "--parallelism", "20", "--width","1920", "--height", "1080", "--maxDownloads", "1"],
 			// Workspace relative or absolute path to the working directory of the program being debugged. Default is the current workspace.
 			"cwd": ".",
 			// Workspace relative or absolute path to the runtime executable to be used. Default is the runtime executable on the PATH.
