@@ -1,6 +1,8 @@
 
 
-  √ should get some background objects (499ms)
+  √ should get some background objects (477ms)
+  √ should end with jpg, noImageUrl
+  √ should end with jpg, imageUrl
 
-  1 passing (506ms)
+  3 passing (488ms)
 
